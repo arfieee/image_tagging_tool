@@ -36,7 +36,7 @@
     <td>
         <form method="post" action="fundus_v1.php" enctype="multipart/form-data">
         <?php
-            //Step2
+            
             // $query = "SELECT * FROM single_image";
             // // echo $query;
             // mysqli_query($connect, $query) or die('Error querying database.');
